@@ -15,3 +15,25 @@
 2026-02-11 12:34:57.359 -05:00 [INF] Fetching all restaurants. {"$type":"GetAllRestaurantsQuery"}
 2026-02-11 12:34:57.558 -05:00 [INF] HTTP GET /api/Restaurant/GetRestaurants responded 200 in 7329.7588 ms
 2026-02-11 12:34:57.563 -05:00 [WRN] Request took 7334 ms: GET /api/Restaurant/GetRestaurants
+2026-02-11 17:27:19.161 -05:00 [INF] HTTP GET /swagger/index.html responded 200 in 42.0466 ms
+2026-02-11 17:27:19.249 -05:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 39.2139 ms
+2026-02-11 17:27:19.962 -05:00 [INF] HTTP GET /swagger/index.html responded 200 in 0.6198 ms
+2026-02-11 17:27:19.988 -05:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 1.9933 ms
+2026-02-11 17:27:25.918 -05:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-02-11 17:27:25.984 -05:00 [INF] Fetching all restaurants. {"$type":"GetAllRestaurantsQuery"}
+2026-02-11 17:27:26.533 -05:00 [INF] HTTP GET /api/Restaurant/GetRestaurants responded 200 in 628.3441 ms
+2026-02-11 17:30:36.611 -05:00 [INF] HTTP GET /swagger/index.html responded 200 in 45.4893 ms
+2026-02-11 17:30:36.693 -05:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 37.2607 ms
+2026-02-11 17:31:07.894 -05:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-02-11 17:31:07.932 -05:00 [INF] HTTP POST /api/restaurants/1/dishes/add responded 400 in 50.5995 ms
+2026-02-11 17:31:09.741 -05:00 [INF] HTTP POST /api/restaurants/1/dishes/add responded 400 in 2.2909 ms
+2026-02-11 17:31:28.479 -05:00 [INF] HTTP POST /api/restaurants/1/dishes/add responded 400 in 28.5351 ms
+2026-02-11 17:31:53.419 -05:00 [INF] HTTP POST /api/restaurants/1/dishes/add responded 400 in 1.4606 ms
+2026-02-11 17:31:57.834 -05:00 [INF] HTTP POST /api/restaurants/1/dishes/add responded 400 in 0.9662 ms
+2026-02-11 17:32:34.157 -05:00 [INF] HTTP POST /api/restaurants/1/dishes/add responded 400 in 0.8540 ms
+2026-02-11 17:32:59.197 -05:00 [INF] Creating Dish
+2026-02-11 17:32:59.372 -05:00 [INF] HTTP POST /api/restaurants/1/dishes/add responded 200 in 230.4286 ms
+2026-02-11 17:33:13.625 -05:00 [INF] Fetching all restaurants. {"$type":"GetAllRestaurantsQuery"}
+2026-02-11 17:33:13.699 -05:00 [INF] HTTP GET /api/Restaurant/GetRestaurants responded 200 in 83.3561 ms
+2026-02-11 17:33:15.373 -05:00 [INF] Fetching all restaurants. {"$type":"GetAllRestaurantsQuery"}
+2026-02-11 17:33:15.383 -05:00 [INF] HTTP GET /api/Restaurant/GetRestaurants responded 200 in 11.0148 ms
