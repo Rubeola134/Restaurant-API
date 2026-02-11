@@ -1,0 +1,195 @@
+2026-02-04 13:25:23.435 -05:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-02-04 13:25:23.486 -05:00 [INF] Fetching all restaurants. {"$type":"GetAllRestaurantsQuery"}
+2026-02-04 13:25:23.622 -05:00 [INF] HTTP GET /api/restaurant/GetRestaurants responded 200 in 198.4246 ms
+2026-02-04 13:25:53.801 -05:00 [INF] Fetching all restaurants. {"$type":"GetAllRestaurantsQuery"}
+2026-02-04 13:25:53.833 -05:00 [INF] HTTP GET /api/restaurant/GetRestaurants responded 200 in 35.1745 ms
+2026-02-04 13:26:11.005 -05:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-02-04 13:26:11.066 -05:00 [INF] Fetching all restaurants. {"$type":"GetAllRestaurantsQuery"}
+2026-02-04 13:26:11.198 -05:00 [INF] HTTP GET /api/restaurant/GetRestaurants responded 200 in 207.5186 ms
+2026-02-04 13:29:48.112 -05:00 [INF] Now listening on: http://localhost:5211
+2026-02-04 13:29:48.121 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-04 13:29:48.121 -05:00 [INF] Hosting environment: Development
+2026-02-04 13:29:48.121 -05:00 [INF] Content root path: /Users/rubengarcia/Documents/Restaurant API/API
+2026-02-04 13:29:49.592 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5211/api/restaurant/GetRestaurants - application/json 55
+2026-02-04 13:29:49.612 -05:00 [INF] Executing endpoint 'API.Controllers.RestaurantController.GetRestaurants (API)'
+2026-02-04 13:29:49.618 -05:00 [INF] Route matched with {action = "GetRestaurants", controller = "Restaurant"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[API.Dtos.RestaurantDto]]] GetRestaurants() on controller API.Controllers.RestaurantController (API).
+2026-02-04 13:29:49.619 -05:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-02-04 13:29:49.663 -05:00 [INF] Fetching all restaurants. {"$type":"GetAllRestaurantsQuery"}
+2026-02-04 13:29:49.775 -05:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[API.Dtos.RestaurantDto, API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-04 13:29:49.801 -05:00 [INF] Executed action API.Controllers.RestaurantController.GetRestaurants (API) in 182.0203ms
+2026-02-04 13:29:49.805 -05:00 [INF] Executed endpoint 'API.Controllers.RestaurantController.GetRestaurants (API)'
+2026-02-04 13:29:49.806 -05:00 [INF] HTTP GET /api/restaurant/GetRestaurants responded 200 in 204.2041 ms
+2026-02-04 13:29:49.810 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5211/api/restaurant/GetRestaurants - 200 null application/json; charset=utf-8 219.4138ms
+2026-02-04 13:30:34.250 -05:00 [INF] Application is shutting down...
+2026-02-04 13:30:53.326 -05:00 [INF] Now listening on: http://localhost:5211
+2026-02-04 13:30:53.335 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-04 13:30:53.335 -05:00 [INF] Hosting environment: Development
+2026-02-04 13:30:53.335 -05:00 [INF] Content root path: /Users/rubengarcia/Documents/Restaurant API/API
+2026-02-04 13:30:58.478 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5211/api/restaurant/GetRestaurants - application/json 55
+2026-02-04 13:30:58.498 -05:00 [INF] Executing endpoint 'API.Controllers.RestaurantController.GetRestaurants (API)'
+2026-02-04 13:30:58.503 -05:00 [INF] Route matched with {action = "GetRestaurants", controller = "Restaurant"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[API.Dtos.RestaurantDto]]] GetRestaurants() on controller API.Controllers.RestaurantController (API).
+2026-02-04 13:30:58.504 -05:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-02-04 13:30:58.549 -05:00 [INF] Fetching all restaurants. {"$type":"GetAllRestaurantsQuery"}
+2026-02-04 13:30:58.650 -05:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[API.Dtos.RestaurantDto, API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-04 13:30:58.675 -05:00 [INF] Executed action API.Controllers.RestaurantController.GetRestaurants (API) in 170.3075ms
+2026-02-04 13:30:58.679 -05:00 [INF] Executed endpoint 'API.Controllers.RestaurantController.GetRestaurants (API)'
+2026-02-04 13:30:58.680 -05:00 [INF] HTTP GET /api/restaurant/GetRestaurants responded 200 in 192.0604 ms
+2026-02-04 13:30:58.684 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5211/api/restaurant/GetRestaurants - 200 null application/json; charset=utf-8 207.5538ms
+2026-02-04 13:31:16.904 -05:00 [INF] Application is shutting down...
+2026-02-04 13:31:22.309 -05:00 [INF] Now listening on: http://localhost:5211
+2026-02-04 13:31:22.323 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-04 13:31:22.323 -05:00 [INF] Hosting environment: Development
+2026-02-04 13:31:22.323 -05:00 [INF] Content root path: /Users/rubengarcia/Documents/Restaurant API/API
+2026-02-04 13:31:24.575 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5211/api/restaurant/GetRestaurants - application/json 55
+2026-02-04 13:31:24.596 -05:00 [INF] Executing endpoint 'API.Controllers.RestaurantController.GetRestaurants (API)'
+2026-02-04 13:31:24.603 -05:00 [INF] Route matched with {action = "GetRestaurants", controller = "Restaurant"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[API.Dtos.RestaurantDto]]] GetRestaurants() on controller API.Controllers.RestaurantController (API).
+2026-02-04 13:31:24.604 -05:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-02-04 13:31:24.651 -05:00 [INF] Fetching all restaurants. {"$type":"GetAllRestaurantsQuery"}
+2026-02-04 13:31:24.761 -05:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[API.Dtos.RestaurantDto, API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-04 13:31:24.786 -05:00 [INF] Executed action API.Controllers.RestaurantController.GetRestaurants (API) in 182.2809ms
+2026-02-04 13:31:24.790 -05:00 [INF] Executed endpoint 'API.Controllers.RestaurantController.GetRestaurants (API)'
+2026-02-04 13:31:24.791 -05:00 [INF] HTTP GET /api/restaurant/GetRestaurants responded 200 in 205.9499 ms
+2026-02-04 13:31:24.794 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5211/api/restaurant/GetRestaurants - 200 null application/json; charset=utf-8 220.0332ms
+2026-02-04 13:31:56.121 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5211/api/restaurant/GetRestaurants - application/json 55
+2026-02-04 13:31:56.124 -05:00 [INF] Executing endpoint 'API.Controllers.RestaurantController.GetRestaurants (API)'
+2026-02-04 13:31:56.124 -05:00 [INF] Route matched with {action = "GetRestaurants", controller = "Restaurant"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[API.Dtos.RestaurantDto]]] GetRestaurants() on controller API.Controllers.RestaurantController (API).
+2026-02-04 13:31:56.125 -05:00 [INF] Fetching all restaurants. {"$type":"GetAllRestaurantsQuery"}
+2026-02-04 13:31:56.163 -05:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[API.Dtos.RestaurantDto, API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-04 13:31:56.163 -05:00 [INF] Executed action API.Controllers.RestaurantController.GetRestaurants (API) in 39.0544ms
+2026-02-04 13:31:56.163 -05:00 [INF] Executed endpoint 'API.Controllers.RestaurantController.GetRestaurants (API)'
+2026-02-04 13:31:56.163 -05:00 [INF] HTTP GET /api/restaurant/GetRestaurants responded 200 in 40.3458 ms
+2026-02-04 13:31:56.164 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5211/api/restaurant/GetRestaurants - 200 null application/json; charset=utf-8 43.3326ms
+2026-02-04 13:33:29.839 -05:00 [INF] Application is shutting down...
+2026-02-04 13:33:33.953 -05:00 [INF] Now listening on: http://localhost:5211
+2026-02-04 13:33:33.966 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-04 13:33:33.966 -05:00 [INF] Hosting environment: Development
+2026-02-04 13:33:33.966 -05:00 [INF] Content root path: /Users/rubengarcia/Documents/Restaurant API/API
+2026-02-04 13:33:35.592 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5211/api/restaurant/GetRestaurants - application/json 55
+2026-02-04 13:33:35.615 -05:00 [INF] Executing endpoint 'API.Controllers.RestaurantController.GetRestaurants (API)'
+2026-02-04 13:33:35.621 -05:00 [INF] Route matched with {action = "GetRestaurants", controller = "Restaurant"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[API.Dtos.RestaurantDto]]] GetRestaurants() on controller API.Controllers.RestaurantController (API).
+2026-02-04 13:33:35.622 -05:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-02-04 13:33:35.670 -05:00 [INF] Fetching all restaurants. {"$type":"GetAllRestaurantsQuery"}
+2026-02-04 13:33:35.777 -05:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[API.Dtos.RestaurantDto, API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-04 13:33:35.802 -05:00 [INF] Executed action API.Controllers.RestaurantController.GetRestaurants (API) in 180.503ms
+2026-02-04 13:33:35.807 -05:00 [INF] Executed endpoint 'API.Controllers.RestaurantController.GetRestaurants (API)'
+2026-02-04 13:33:35.808 -05:00 [INF] HTTP GET /api/restaurant/GetRestaurants responded 200 in 203.8576 ms
+2026-02-04 13:33:35.811 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5211/api/restaurant/GetRestaurants - 200 null application/json; charset=utf-8 220.259ms
+2026-02-04 13:34:24.412 -05:00 [INF] Application is shutting down...
+2026-02-04 13:34:30.041 -05:00 [INF] Now listening on: http://localhost:5211
+2026-02-04 13:34:30.054 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-04 13:34:30.054 -05:00 [INF] Hosting environment: Development
+2026-02-04 13:34:30.054 -05:00 [INF] Content root path: /Users/rubengarcia/Documents/Restaurant API/API
+2026-02-04 13:34:34.475 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5211/api/restaurant/GetRestaurants - application/json 55
+2026-02-04 13:34:34.499 -05:00 [INF] Executing endpoint 'API.Controllers.RestaurantController.GetRestaurants (API)'
+2026-02-04 13:34:34.505 -05:00 [INF] Route matched with {action = "GetRestaurants", controller = "Restaurant"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[API.Dtos.RestaurantDto]]] GetRestaurants() on controller API.Controllers.RestaurantController (API).
+2026-02-04 13:34:34.506 -05:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-02-04 13:34:34.555 -05:00 [INF] Fetching all restaurants. {"$type":"GetAllRestaurantsQuery"}
+2026-02-04 13:34:34.664 -05:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[API.Dtos.RestaurantDto, API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-04 13:34:34.689 -05:00 [INF] Executed action API.Controllers.RestaurantController.GetRestaurants (API) in 182.4612ms
+2026-02-04 13:34:34.693 -05:00 [INF] Executed endpoint 'API.Controllers.RestaurantController.GetRestaurants (API)'
+2026-02-04 13:34:34.694 -05:00 [INF] HTTP GET /api/restaurant/GetRestaurants responded 200 in 206.4865 ms
+2026-02-04 13:34:34.698 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5211/api/restaurant/GetRestaurants - 200 null application/json; charset=utf-8 223.2745ms
+2026-02-04 13:36:14.152 -05:00 [INF] Application is shutting down...
+2026-02-04 13:36:21.088 -05:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-02-04 13:36:21.150 -05:00 [INF] Fetching all restaurants. {"$type":"GetAllRestaurantsQuery"}
+2026-02-04 13:36:21.288 -05:00 [INF] HTTP GET /api/restaurant/GetRestaurants responded 200 in 214.7515 ms
+2026-02-04 13:41:08.942 -05:00 [INF] HTTP GET /swagger/index.html responded 200 in 43.3509 ms
+2026-02-04 13:41:09.036 -05:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 40.4191 ms
+2026-02-04 13:50:18.019 -05:00 [INF] HTTP GET /favicon.ico responded 404 in 10.0889 ms
+2026-02-04 13:50:18.294 -05:00 [INF] HTTP GET /Restaurant/GetRestaurants responded 404 in 0.6468 ms
+2026-02-04 13:50:19.083 -05:00 [INF] HTTP GET /Restaurant/GetRestaurants responded 404 in 0.3438 ms
+2026-02-04 13:50:25.379 -05:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 51.3405 ms
+2026-02-04 13:50:27.029 -05:00 [INF] HTTP GET /swagger/index.html responded 200 in 58.0149 ms
+2026-02-04 13:50:27.061 -05:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 2.0539 ms
+2026-02-04 13:54:09.720 -05:00 [INF] HTTP GET /swagger/index.html responded 200 in 0.3006 ms
+2026-02-04 13:54:09.762 -05:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 1.9735 ms
+2026-02-04 13:54:16.791 -05:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-02-04 13:54:16.848 -05:00 [INF] Fetching all restaurants. {"$type":"GetAllRestaurantsQuery"}
+2026-02-04 13:54:16.997 -05:00 [ERR] HTTP GET /api/restaurant/GetRestaurants responded 500 in 216.8564 ms
+System.InvalidOperationException: An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot open database "TestDB2" requested by the login. The login failed.
+Login failed for user 'sa'.
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+ClientConnectionId:c0285a12-6551-4d01-a42a-d3660846de6e
+Error Number:4060,State:1,Class:11
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at API.Data.UserRepository.GetAllRestaurantsAsync() in /Users/rubengarcia/Documents/Restaurant API/API/Data/UserRepository.cs:line 12
+   at API.Helpers.Queries.GetAllRestaurants.GetAllRestaurantsQueryHandler.Handle(GetAllRestaurantsQuery request, CancellationToken cancellationToken) in /Users/rubengarcia/Documents/Restaurant API/API/Helpers/Queries/GetAllRestaurants/GetAllRestaurantsQueryHandler.cs:line 14
+   at API.Controllers.RestaurantController.GetRestaurants() in /Users/rubengarcia/Documents/Restaurant API/API/Controllers/RestaurantController.cs:line 23
+   at lambda_method9(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2026-02-04 13:54:17.007 -05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot open database "TestDB2" requested by the login. The login failed.
+Login failed for user 'sa'.
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+ClientConnectionId:c0285a12-6551-4d01-a42a-d3660846de6e
+Error Number:4060,State:1,Class:11
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at API.Data.UserRepository.GetAllRestaurantsAsync() in /Users/rubengarcia/Documents/Restaurant API/API/Data/UserRepository.cs:line 12
+   at API.Helpers.Queries.GetAllRestaurants.GetAllRestaurantsQueryHandler.Handle(GetAllRestaurantsQuery request, CancellationToken cancellationToken) in /Users/rubengarcia/Documents/Restaurant API/API/Helpers/Queries/GetAllRestaurants/GetAllRestaurantsQueryHandler.cs:line 14
+   at API.Controllers.RestaurantController.GetRestaurants() in /Users/rubengarcia/Documents/Restaurant API/API/Controllers/RestaurantController.cs:line 23
+   at lambda_method9(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)

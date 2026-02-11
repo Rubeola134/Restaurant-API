@@ -1,0 +1,5 @@
+2026-02-04 13:23:41.655 -05:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-02-04 13:23:41.744 -05:00 [INF] Updating restaurant with Id 1002.
+2026-02-04 13:23:41.817 -05:00 [INF] HTTP PATCH /api/Restaurant/UpdateRestaurant/1002 responded 404 in 176.3196 ms
+2026-02-04 13:24:03.373 -05:00 [INF] Fetching all restaurants. {"$type":"GetAllRestaurantsQuery"}
+2026-02-04 13:24:03.471 -05:00 [INF] HTTP GET /api/restaurant/GetRestaurants responded 200 in 103.5370 ms

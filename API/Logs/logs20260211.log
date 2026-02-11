@@ -1,0 +1,17 @@
+2026-02-11 12:33:52.549 -05:00 [INF] HTTP GET /swagger/index.html responded 200 in 48.1645 ms
+2026-02-11 12:33:52.565 -05:00 [INF] HTTP GET /swagger/index.js responded 200 in 0.6567 ms
+2026-02-11 12:33:52.567 -05:00 [INF] HTTP GET /swagger/index.css responded 304 in 1.4415 ms
+2026-02-11 12:33:52.567 -05:00 [INF] HTTP GET /swagger/swagger-ui.css responded 304 in 2.9645 ms
+2026-02-11 12:33:52.567 -05:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 304 in 3.3642 ms
+2026-02-11 12:33:52.570 -05:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 304 in 6.1676 ms
+2026-02-11 12:33:52.613 -05:00 [INF] HTTP GET /swagger/favicon-32x32.png responded 304 in 0.0955 ms
+2026-02-11 12:33:52.646 -05:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 36.1937 ms
+2026-02-11 12:33:54.037 -05:00 [INF] HTTP GET /swagger/index.html responded 200 in 0.2653 ms
+2026-02-11 12:33:54.067 -05:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 3.0358 ms
+2026-02-11 12:33:57.567 -05:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-02-11 12:33:57.628 -05:00 [INF] Fetching all restaurants. {"$type":"GetAllRestaurantsQuery"}
+2026-02-11 12:33:57.747 -05:00 [INF] HTTP GET /api/Restaurant/GetRestaurants responded 200 in 194.3714 ms
+2026-02-11 12:34:50.250 -05:00 [WRN] You do not have a valid license key for the Lucky Penny software MediatR. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-02-11 12:34:57.359 -05:00 [INF] Fetching all restaurants. {"$type":"GetAllRestaurantsQuery"}
+2026-02-11 12:34:57.558 -05:00 [INF] HTTP GET /api/Restaurant/GetRestaurants responded 200 in 7329.7588 ms
+2026-02-11 12:34:57.563 -05:00 [WRN] Request took 7334 ms: GET /api/Restaurant/GetRestaurants
